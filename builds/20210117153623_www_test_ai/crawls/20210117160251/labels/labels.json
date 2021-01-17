@@ -1,0 +1,20 @@
+{
+    "elems": {
+        "iter_00000_step_00001_34_a.png": [
+            "lnk_industries"
+        ], 
+        "iter_00000_step_00003_34_button.png": [
+            "btn_accept_cookies"
+        ], 
+        "iter_00000_step_00004_11_a.png": [
+            "lnk_careers"
+        ], 
+        "iter_00000_step_00004_1_a.png": [
+            "lnk_events"
+        ], 
+        "iter_00000_step_00004_32_a.png": [
+            "lnk_contact"
+        ]
+    }, 
+    "screens": {}
+}
