@@ -1,0 +1,32 @@
+{
+    "elems": {
+        "iter_00000_step_00000_0_div.png": [
+            "lnk_industries"
+        ], 
+        "iter_00000_step_00000_12_a.png": [
+            "lnk_careers"
+        ], 
+        "iter_00000_step_00000_1_a.png": [
+            "lnk_events"
+        ], 
+        "iter_00000_step_00000_24_a.png": [
+            "btn_demo"
+        ], 
+        "iter_00000_step_00000_30_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00000_31_button.png": [
+            "btn_accept_cookies"
+        ], 
+        "iter_00000_step_00000_32_a.png": [
+            "lnk_contact"
+        ], 
+        "iter_00000_step_00000_34_a.png": [
+            "lnk_industries"
+        ], 
+        "iter_00000_step_00000_6_a.png": [
+            "mnu_product"
+        ]
+    }, 
+    "screens": {}
+}

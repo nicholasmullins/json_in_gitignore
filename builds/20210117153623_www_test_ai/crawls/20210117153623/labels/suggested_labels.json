@@ -1,5 +1,14 @@
 {
     "elems": {
+        "iter_00000_step_00000_0_div.png": {
+            "lnk_industries": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
         "iter_00000_step_00000_10_a.png": {
             "lnk_careers": {
                 "all_scores": {
@@ -9,8 +18,26 @@
                 "source": "hash_based"
             }
         }, 
+        "iter_00000_step_00000_19_a.png": {
+            "btn_demo": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
         "iter_00000_step_00000_1_a.png": {
             "lnk_events": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00000_28_a.png": {
+            "mnu_company": {
                 "all_scores": {
                     "hash_based": 1.0
                 }, 
@@ -38,6 +65,15 @@
         }, 
         "iter_00000_step_00000_34_a.png": {
             "lnk_industries": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00000_5_a.png": {
+            "mnu_product": {
                 "all_scores": {
                     "hash_based": 1.0
                 }, 
